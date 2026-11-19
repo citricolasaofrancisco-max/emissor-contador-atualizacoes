@@ -1,0 +1,1 @@
+# emissor-contador-atualizacoes
